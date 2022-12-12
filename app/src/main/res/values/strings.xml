@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TemplateAndroidProject</string>
+    <string name="template_screen_title">Hello Space!</string>
+    <string name="template_screen_logo_description">Space logo</string>
+</resources>
